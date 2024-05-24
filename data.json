@@ -1,0 +1,119 @@
+[
+    {
+        "Codigo": "VO 21534097",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Forro de frenos",
+        "Porcentaje_Descuento": null,
+        "Precio": "$140.59",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_1.jpg"
+    },
+    {
+        "Codigo": "VO 23690622",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Kit de Filtro Secador de Aire",
+        "Porcentaje_Descuento": null,
+        "Precio": "$264.65",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_2.jpg"
+    },
+    {
+        "Codigo": "VO 3095196",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Juego de zapata de freno",
+        "Porcentaje_Descuento": null,
+        "Precio": "$356.63",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_3.jpg"
+    },
+    {
+        "Codigo": "VO 21811707",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "V\u00e1lvula de protecci\u00f3n de circuito",
+        "Porcentaje_Descuento": null,
+        "Precio": "$565.95",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_4.jpg"
+    },
+    {
+        "Codigo": "VO 23428377",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "L\u00edquido de freno",
+        "Porcentaje_Descuento": null,
+        "Precio": "$16.00",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_5.jpg"
+    },
+    {
+        "Codigo": "VO 21247147",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Sensor de velocidad de la rueda",
+        "Porcentaje_Descuento": null,
+        "Precio": "$175.42",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_6.jpg"
+    },
+    {
+        "Codigo": "VO 21247154",
+        "Marca": "",
+        "Nombre_Producto": "Sensor de velocidad de la rueda",
+        "Porcentaje_Descuento": null,
+        "Precio": "$175.42",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_7.jpg"
+    },
+    {
+        "Codigo": "VO 8550978",
+        "Marca": "Buses Volvo, Camiones Volvo",
+        "Nombre_Producto": "Juego de reparaci\u00f3n de frenos",
+        "Porcentaje_Descuento": null,
+        "Precio": "$437.86",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_8.jpg"
+    },
+    {
+        "Codigo": "VO 8550977",
+        "Marca": "Buses Volvo, Camiones Volvo",
+        "Nombre_Producto": "Pi\u00f1\u00f3n derecho",
+        "Porcentaje_Descuento": null,
+        "Precio": "$437.86",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_9.jpg"
+    },
+    {
+        "Codigo": "VO 20533195",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Cilindro de frenos",
+        "Porcentaje_Descuento": null,
+        "Precio": "$1,019.13",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_10.jpg"
+    },
+    {
+        "Codigo": "VO 8127762",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Forro de freno posterior",
+        "Porcentaje_Descuento": null,
+        "Precio": "$395.11",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_11.jpg"
+    },
+    {
+        "Codigo": "VO 23149532",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Juego De Pastillas",
+        "Porcentaje_Descuento": null,
+        "Precio": "$348.28",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_12.jpg"
+    },
+    {
+        "Codigo": "VO 21352570",
+        "Marca": "Camiones Volvo",
+        "Nombre_Producto": "Juego De Pastillas",
+        "Porcentaje_Descuento": null,
+        "Precio": "$355.69",
+        "Precio_Descontado": null,
+        "imagen_ruta": "C:\\Users\\tpizarro\\Documents\\Drive\\producto_13.jpg"
+    }
+]
